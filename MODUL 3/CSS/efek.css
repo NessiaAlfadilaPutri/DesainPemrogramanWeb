@@ -1,0 +1,48 @@
+div.blue{
+	background-color: aqua;
+	position: center;
+	align-content: center;
+}
+
+h3.blue-text{
+	color: black;
+	font-style: italic;
+	font-family: arial;
+}
+ol li.blue-list{
+	color: black;
+	font-style: hold;
+	font-family: arial;
+}
+ol li.blue-list:nth-child(odd){
+	color: grey;
+	font-style: italic;
+	font-family: arial;
+}
+
+
+div#nila{
+	background-color: blue;
+	color: white;
+	position: center;
+	align-content: center;
+}
+
+ol#nilai-list{
+	color: white;
+	font-style: italic;
+	font-family: arial;
+}
+
+ol li a#nila-a{
+	color: white;
+	font-style: italic;
+	font-family: arial;
+}
+
+ol li a#nila-a:hover{
+	color: yellow;
+	font-style: bold;
+	font-family: times new romans;
+	font-size: 40px;
+}

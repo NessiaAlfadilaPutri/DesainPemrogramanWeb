@@ -1,0 +1,15 @@
+body{
+	background-color: #A9A9A9;
+	color: black;
+	font-size: 14px;
+
+}
+
+#kalimat1{
+	color: white;
+	background-color: aqua;
+}
+
+.kalimat2{
+	color: darkred;
+}
